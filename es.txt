@@ -1,0 +1,2 @@
+idioma español en carpeta resources/lang 
+https://github.com/caouecs/Laravel-lang
